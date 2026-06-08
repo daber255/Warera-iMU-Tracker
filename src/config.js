@@ -16,6 +16,10 @@ export const MU_CATEGORIES = [
     ids: [
       "69d35fac0eafd3d295076648",
       "69bd8b61e72e389dfa0574dd",
+      "6a01b1c2d6f1a1f7e06b658a",
+      "69e9bfa1c8894826c21aa030",
+      "69c3bad0cbdcd4950c8d9f41",
+      "6a2674a5b0924b6f4dcfc2f0"
     ],
   },
   {
